@@ -11,6 +11,7 @@ public class Doctors {
     }
 
    
+    
     public void viewDoctors() {
         String query = "SELECT * FROM doctors";
         try {
