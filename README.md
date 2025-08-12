@@ -27,6 +27,9 @@ A console-based Java application for managing hospital operations—patient regi
 3. Download **MySQL Connector/J** and place it in a `lib` folder in the project directory
 
 ---
+## Preview
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/ec30d698-cf1f-4d26-93db-d778432f38d3" />
+
 
 ##  Setup Instructions
 
